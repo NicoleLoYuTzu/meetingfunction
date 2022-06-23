@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "44039700708",
+    "project_id": "fishop-bd0b6",
+    "storage_bucket": "fishop-bd0b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44039700708:android:224e6bce85840d9b5dacf1",
+        "android_client_info": {
+          "package_name": "com.nicole.fishshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44039700708-ig8ec4il0lomiuu516u5plmj5rn3butp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nicole.fishshop",
+            "certificate_hash": "8a581107a3faf07389a46cb7cff3c74bfac94ab5"
+          }
+        },
+        {
+          "client_id": "44039700708-qg19e235nofihjbsjkrv3efsklst64o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-uVtkAXPnfq6WX7BrPIxTw6CqbtzwqM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44039700708-qg19e235nofihjbsjkrv3efsklst64o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44039700708:android:f3b8f54a4a879e785dacf1",
+        "android_client_info": {
+          "package_name": "com.nicole.fishshoptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44039700708-qg19e235nofihjbsjkrv3efsklst64o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-uVtkAXPnfq6WX7BrPIxTw6CqbtzwqM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44039700708-qg19e235nofihjbsjkrv3efsklst64o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
